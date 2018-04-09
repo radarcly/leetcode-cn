@@ -1,5 +1,5 @@
 # leetcode-cn
-leetcode-cn刷题记录
+leetcode-cn解题记录
 
 文件夹名称为题目序号+题目名称
 
